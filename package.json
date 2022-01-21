@@ -1,0 +1,26 @@
+{
+  "name": "bird-site-clown",
+  "version": "0.2.1",
+  "description": "Clownifies NFT bird site",
+  "main": "content.js",
+  "scripts": {
+    "build": "node build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "@types/chrome": "^0.0.175",
+    "@typescript-eslint/eslint-plugin": "^5.9.0",
+    "@typescript-eslint/parser": "^5.9.0",
+    "esbuild": "^0.14.10",
+    "eslint": "^8.6.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "fs-extra": "^10.0.0",
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "rc4": "^0.1.5"
+  }
+}
