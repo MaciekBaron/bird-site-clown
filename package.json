@@ -1,6 +1,6 @@
 {
   "name": "bird-site-clown",
-  "version": "0.2.1",
+  "version": "0.0.2",
   "description": "Clownifies NFT bird site",
   "main": "content.js",
   "scripts": {

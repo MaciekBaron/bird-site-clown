@@ -2,7 +2,7 @@ import makeClown from './clown';
 
 const MUTATION_CONFIG = { childList: true, subtree: true };
 const DEBOUNCE_TIME = 100;
-const ELEMENT_SELECTOR = 'a>[style^=\'clip-path: url("#hex-hw-shapeclip\']:first-child';
+const ELEMENT_SELECTOR = 'a>[style*=\'clip-path: url("#hex-hw-shapeclip\']:first-child';
 
 window.addEventListener('load', () => {
   let debounceTimeout: number;

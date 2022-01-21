@@ -32,5 +32,7 @@ The code is licensed under GPL v3. The [source clown image](https://commons.wiki
 All clowns are randomly generated. Any resemblance or offensive connotation is purely coincidental.
 
 ## Changelog
+### 0.0.2
+* Changing selector to a slightly slower but more reliable one
 ### 0.0.1
 * Initial release
